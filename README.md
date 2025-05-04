@@ -5,11 +5,20 @@
 </div>
 <hr>
 
-### 🐍 Languages and Frameworks
+### 🐍 Languages
 <div style="display: inline_block">
+  <img align="center" alt="PYTHON" heigth="40" width="50" src="https://img.icons8.com/?size=512&id=13441&format=png"/>
+  <img align="center" alt="SQL" heigth="40" width="50" src="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"/>
   <img align="center" alt="HTML5" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732212.png"/>
   <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"/>
-  <img align="center" alt="PYTHON" heigth="40" width="50" src="https://img.icons8.com/?size=512&id=13441&format=png"/>
+  <img align="center" alt="JS" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>
+  <br/><br/>
+</div>
+<hr>
+
+### ⚙️ Frameworks
+<div style="display: inline_block">
+  <img align="center" alt="Django" heigth="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
   <br/><br/>
 </div>
 <hr>
@@ -19,4 +28,5 @@
 <div style="display: inline_block">
   <img align="center" alt="VSCODE" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
   <img align="center" alt="PYCHARM" heigth="30" width="40" src="https://img.icons8.com/?size=96&id=117121&format=png"/>
+  <img align="center" alt="MYSQL" heigth="40" width="50" src="https://media-public.canva.com/MADnBqFvink/3/thumbnail_large.png"/>
 </div>
