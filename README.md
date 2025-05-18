@@ -17,23 +17,22 @@
   <br/><br/>
   <br/><br/>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### ⚙️ Frameworks
 <br/>
 <div style="display: inline_block">
   <img align="center" alt="Django" heigth="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
-  <br/><br/>
 </div>
 
 <br/><br/>
 
 <div style="display: inline_block">
-  <img align="left" alt="PYCHARM" heigth="150" width="260" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"/>
+  <img align="left" alt="CODE" heigth="150" width="260" src="https://i.pinimg.com/736x/4e/7b/9a/4e7b9a64fb996567222007f2561a216d.jpg"/>
   <br/><br/>
   <br/><br/>
 </div>
-
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="right">
 
 ### 💻 Softwares
@@ -41,6 +40,7 @@
 </div>
 <br/>
 <div style="display: inline_block">
+  <img align="right" alt="POWERBI" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"/>
   <img align="right" alt="VSCODE" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
   <img align="right" alt="PYCHARM" heigth="30" width="40" src="https://img.icons8.com/?size=96&id=117121&format=png"/>
   <img align="right" alt="MYSQL" heigth="40" width="50" src="https://media-public.canva.com/MADnBqFvink/3/thumbnail_large.png"/>
